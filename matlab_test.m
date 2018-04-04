@@ -34,7 +34,7 @@ end
 
 xCenter = 43;
 yCenter = 14.5;
-xRadius = 20;
+xRadius = 25;
 yRadius = 8;
 theta = 0 : 0.1 : 2*pi;
 x = xRadius * cos(theta) + xCenter;
